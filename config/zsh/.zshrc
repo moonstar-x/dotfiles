@@ -50,3 +50,12 @@ export NVM_DIR="$HOME/.nvm"
 export LIBRARY_PATH="$LIBRARY_PATH:$(brew --prefix)/lib"
 export PATH=$PATH:~/.cargo/bin/
 
+# Go Binaries
+export PATH=$PATH:~/go/bin
+
+# uv Binaries
+export PATH=$PATH:~/.local/bin
+
+# Installed Packages
+eval "$(atuin init zsh)"
+eval "$(starship init zsh)"

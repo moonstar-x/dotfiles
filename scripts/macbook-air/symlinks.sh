@@ -18,6 +18,9 @@ ln -sf "$CONFIG_DIR/ghostty/config" "$XDG_CONFIG_HOME/com.mitchellh.ghostty/conf
 echo "Linking config for jellyfin-tui"
 ln -sf "$CONFIG_DIR/jellyfin-tui/config.yaml" "$XDG_CONFIG_HOME/jellyfin-tui/config.yaml"
 
+echo "Linking config for starship"
+ln -sf "$CONFIG_DIR/starship/config.toml" "$LINUX_XDG_CONFIG_HOME/starship.toml"
+
 echo "Linking config for zsh"
 ln -sf "$CONFIG_DIR/zsh/.zprofile" "$HOME/.zprofile"
 ln -sf "$CONFIG_DIR/zsh/.zshrc" "$HOME/.zshrc"
