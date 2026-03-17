@@ -1,0 +1,63 @@
+{
+  "AppStore": {
+    "Amphetamine": "937984704",
+    "RunCat": "1429033973",
+    "Xcode": "497799835"
+  },
+  "Casks": {
+    "Aerospace": "nikitabobko/tap/aerospace",
+    "Docker": "docker-desktop",
+    "Ghostty": "ghostty",
+    "MicrosoftTeams": "microsoft-teams",
+    "NerdFontJetbrainsMono": "font-jetbrains-mono-nerd-font",
+    "Ollama": "ollama-app",
+    "RustDesk": "rustdesk",
+    "VLC": "vlc",
+    "VSCodium": "vscodium"
+  },
+  "Packages": {
+    "Git": "git",
+    "GH": "gh",
+    "Deno": "deno",
+    "Go": "go",
+    "Rust": "rust",
+    "PNPM": "pnpm",
+    "UV": "uv",
+    "ASDF": "asdf",
+    "PyEnv": "pyenv",
+    "NVM": "nvm",
+    "Atuin": "atuin",
+    "Bat": "bat",
+    "Bookokrat": "bookokrat",
+    "Btop": "btop",
+    "Eilmeldung": "christo-auer/eilmeldung/eilmeldung",
+    "Eza": "eza",
+    "Fastfetch": "fastfetch",
+    "FFmpeg": "ffmpeg",
+    "Fx": "fx",
+    "Fzf": "fzf",
+    "Glow": "glow",
+    "Helix": "helix",
+    "JQP": "jqp",
+    "Lazydocker": "jesseduffield/lazydocker/lazydocker",
+    "Lazygit": "lazygit",
+    "Lazyssh": "adembc/tap/lazyssh",
+    "Macmon": "macmon",
+    "MAS": "mas",
+    "MPV": "mpv",
+    "Pastel": "pastel",
+    "Ripgrep": "ripgrep",
+    "SpotifyPlayer": "spotify_player",
+    "Starship": "starship",
+    "Superfile": "superfile",
+    "Taproom": "gromgit/brewtils/taproom",
+    "VHS": "vhs",
+    "Zellij": "zellij"
+  },
+  "Custom": {
+    "jellyfin-tui": "jellyfin-tui",
+    "regex-tui": "regex-tui",
+    "gh-dash": "gh-dash",
+    "posting": "posting"
+  }
+}
