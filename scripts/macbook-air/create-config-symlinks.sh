@@ -21,6 +21,10 @@ ln -sf "$CONFIG_DIR/jellyfin-tui/config.yaml" "$XDG_CONFIG_HOME/jellyfin-tui/con
 echo "Linking config for starship"
 ln -sf "$CONFIG_DIR/starship/config.toml" "$LINUX_XDG_CONFIG_HOME/starship.toml"
 
+echo "Linking config for SketchyBar"
+ln -sf "$CONFIG_DIR/sketchybar/sketchybarrc" "$LINUX_XDG_CONFIG_HOME/sketchybar/sketchybarrc"
+ln -sf "$CONFIG_DIR/sketchybar/plugins" "$LINUX_XDG_CONFIG_HOME/sketchybar/plugins"
+
 echo "Linking config for zsh"
 ln -sf "$CONFIG_DIR/zsh/.zprofile" "$HOME/.zprofile"
 ln -sf "$CONFIG_DIR/zsh/.zshrc" "$HOME/.zshrc"
