@@ -9,10 +9,12 @@
     "Docker": "docker-desktop",
     "Ghostty": "ghostty",
     "HackNerdFont": "font-hack-nerd-font",
+    "JetbrainsToolbox": "jetbrains-toolbox",
     "MicrosoftTeams": "microsoft-teams",
     "NerdFontJetbrainsMono": "font-jetbrains-mono-nerd-font",
     "Ollama": "ollama-app",
     "RustDesk": "rustdesk",
+    "Tailscale": "tailscale-app",
     "VLC": "vlc",
     "VSCodium": "vscodium"
   },
